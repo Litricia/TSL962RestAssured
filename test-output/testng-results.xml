@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-10-11T04:34:02Z" name="Default suite" finished-at="2021-10-11T04:34:09Z" duration-ms="7028">
+  <suite started-at="2021-10-12T09:55:38Z" name="Default suite" finished-at="2021-10-12T09:55:38Z" duration-ms="85">
     <groups>
     </groups>
-    <test started-at="2021-10-11T04:34:02Z" name="Default test" finished-at="2021-10-11T04:34:09Z" duration-ms="7028">
-      <class name="dayTwo.NegativeContactListTest">
-        <test-method signature="notInProperFormat()[pri:0, instance:dayTwo.NegativeContactListTest@45a4b042]" started-at="2021-10-11T04:34:02Z" name="notInProperFormat" description="More than the limit" finished-at="2021-10-11T04:34:09Z" duration-ms="6942" status="PASS">
+    <test started-at="2021-10-12T09:55:38Z" name="Default test" finished-at="2021-10-12T09:55:38Z" duration-ms="85">
+      <class name="dayone.NewTest">
+        <test-method signature="f()[pri:0, instance:dayone.NewTest@7674b62c]" started-at="2021-10-12T09:55:38Z" name="f" finished-at="2021-10-12T09:55:38Z" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- notInProperFormat -->
-      </class> <!-- dayTwo.NegativeContactListTest -->
+        </test-method> <!-- f -->
+        <test-method signature="t()[pri:0, instance:dayone.NewTest@7674b62c]" started-at="2021-10-12T09:55:38Z" name="t" finished-at="2021-10-12T09:55:38Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t -->
+      </class> <!-- dayone.NewTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

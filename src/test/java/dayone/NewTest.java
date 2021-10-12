@@ -8,4 +8,10 @@ public class NewTest {
 	  System.out.println("Hello New Branch");
 	  
   }
+  
+  @Test
+  public void t()
+  {
+	  System.out.println("Hi again");
+  }
 }
