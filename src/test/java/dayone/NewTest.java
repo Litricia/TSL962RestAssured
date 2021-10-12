@@ -14,4 +14,9 @@ public class NewTest {
   {
 	  System.out.println("Hi again");
   }
+  @Test
+  public void a()
+  {
+	  System.out.println("Hi again");
+  }
 }
